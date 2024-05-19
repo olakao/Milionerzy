@@ -1,4 +1,4 @@
-import random, sys
+import sys
 from koła_ratunkowe import *
 from praca_na_plikach import *
 
